@@ -1,6 +1,6 @@
 Name:		texlive-ptex-manual
 Version:	62915
-Release:	1
+Release:	2
 Summary:	Japanese pTeX manual
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ptex-manual
