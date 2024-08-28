@@ -1,5 +1,5 @@
 Name:		texlive-ptex-manual
-Version:	68147
+Version:	71534
 Release:	1
 Summary:	Japanese pTeX manual
 Group:		Publishing
