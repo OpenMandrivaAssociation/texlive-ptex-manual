@@ -3,7 +3,7 @@ Version:	71534
 Release:	1
 Summary:	Japanese pTeX manual
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ptex-manual
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ptex-manual
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ptex-manual.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ptex-manual.doc.r%{version}.tar.xz
